@@ -1,6 +1,5 @@
 ### Hello there I'm FiestyFalconer
 
-- 🔭 I’m currently working on tutorials
 - 📫 How to reach me: email
 
 
